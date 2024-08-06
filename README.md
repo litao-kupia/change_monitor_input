@@ -11,7 +11,7 @@ This Python script allows you to programmatically switch the input source of you
 ## Requirements
 
 - Windows operating system
-- Python 3.x
+- Python 3.x (3.10)
 - Administrator privileges (may be required for some monitor interactions)
 
 ## Installation
